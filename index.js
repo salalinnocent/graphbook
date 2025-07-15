@@ -1,0 +1,1 @@
+import db from "./src/server/database/index.js";

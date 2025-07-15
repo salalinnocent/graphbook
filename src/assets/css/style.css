@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #373483;
+  --font-primary: "Dancing Script", sans-serif;
+  --font-secondary: "Playwrite RO", sans-serif;
+}
